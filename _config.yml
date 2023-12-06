@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Guiyong's Website"
+title                    : "Weilv's Website"
 title_separator          : "-"
-name                     : &name "Guiyong Zheng (郑桂勇)"
+name                     : &name "Weilv Chi (池威律)"
 description              : &description "a Mphil Student at STAR group of SYSU"
-url                      : https://gy920.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://shitoujie.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Gy920/gy920.github.io"
+repository               : "shitoujie/shitoujie.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Gy920"
+  github           : "shitoujie"
   google_plus      :
   keybase          :
   instagram        :
