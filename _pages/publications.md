@@ -4,8 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
-<html>
+ coming soon ...
+<!--<html>
     <table style="width:120%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
             <td style="padding:20px;width:20%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
@@ -26,7 +26,7 @@ author_profile: true
             </td>
           </tr>
     </table>
-</html>
+</html> -->
 
 <!-- <hr>
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=W25Fdb-NQUH1UObkKuunx_1va-9MG_ZujLrO3eIij5c'></script> -->
