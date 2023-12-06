@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Weilv's Website"
 title_separator          : "-"
 name                     : &name "Weilv Chi (池威律)"
-description              : &description "a Mphil Student at STAR group of SYSU"
+description              : &description "a student at XDU"
 url                      : https://shitoujie.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shitoujie/shitoujie.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Guiyong ZHENG"
-  avatar           : "zgy.jpg"
+  name             : "Weilv Chi"
+  avatar           : "shitoujie.jpeg"
   # bio              : "An undergraduate student at XDU"
-  location         : "ShenZhen,China"
+  location         : "Xi'an,China"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  # "http://yourfullgooglescholarurl.com"
-  email            : "shverses@gmail.com"
+  email            : "chiweilv@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
