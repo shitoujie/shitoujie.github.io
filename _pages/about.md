@@ -21,13 +21,14 @@ I am interested in the area of autonomous robots and autonomous driving. with fo
 Education
 ======
 
-* B.Eng , School of Electronic Engineering, Xidian University, 2021 - Present
+* B.Eng , School of Electronic Engineering, Xidian University, 2021 - 2025
 
 
 Internship
 ======
 
 * Deep Robotics(杭州云深处科技), 2024.5 - 2024.7
+
 
 
 Selected Honors
