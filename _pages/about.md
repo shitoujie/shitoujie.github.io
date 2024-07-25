@@ -29,7 +29,7 @@ Internship
 
 * Deep Robotics(杭州云深处科技), 2024.5 - 2024.7
 
-develop a swarm system of quadruped robot. 
+    develop a swarm system of quadruped robot. 
 
 
 Selected Honors
