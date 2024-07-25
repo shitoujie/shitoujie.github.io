@@ -11,15 +11,23 @@ description: The homepage of Weilv Chi
 
 Hello there, I'm Weilv Chi (池威律), currently an undergraduate student at XDU.
 
-My research interests include the areas of Robotics and Reinforcement Learning, with focus on: 
+I am interested in the area of autonomous robots and autonomous driving. with focus on:
 
-- Quadruped Robot
+- Swarm Slam
+- Computer Vision
+- Reinforcement Learning
 
 
 Education
 ======
 
 * B.Eng , School of Electronic Engineering, Xidian University, 2021 - Present
+
+
+Internship
+======
+
+* Deep Robotics(杭州云深处科技), 2024.5 - 2024.7
 
 
 Selected Honors
