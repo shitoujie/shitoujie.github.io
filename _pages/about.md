@@ -15,7 +15,7 @@ I am interested in developing autonomous robots that can achieve long-term auton
 
 - Lifelong Learning
 - Computer Vision
-- Reinforcement Learning
+- Multi-Agent System
 
 
 Education
