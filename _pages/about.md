@@ -11,9 +11,9 @@ description: The homepage of Weilv Chi
 
 Hello there, I'm Weilv Chi (池威律), currently an undergraduate student at XDU.
 
-I am interested in the area of autonomous robots and autonomous driving. with focus on:
+I am interested in developing autonomous robots that can achieve long-term autonomy. with focus on:
 
-- Swarm Slam
+- Lifelong Learning
 - Computer Vision
 - Reinforcement Learning
 
@@ -31,6 +31,9 @@ Internship
 
     develop a swarm system of quadruped robot. 
 
+* Gair Lab, 2024.10 - now
+
+  
 
 Selected Honors
 ======
